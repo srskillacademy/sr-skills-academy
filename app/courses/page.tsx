@@ -12,7 +12,7 @@ const categories = [
 
 const courses = [
   {
-    id: "1",
+    id: "01",
     category: "Software Testing",
     badge: "🔥 BESTSELLER",
     icon: "🧪",
@@ -37,7 +37,7 @@ const courses = [
     ],
   },
   {
-    id: "2",
+    id: "02",
     category: "Programming",
     badge: "POPULAR",
     icon: "☕",
@@ -62,7 +62,7 @@ const courses = [
     ],
   },
   {
-    id: "3",
+    id: "03",
     category: "Data & Analytics",
     badge: "TRENDING",
     icon: "🗄️",
@@ -87,7 +87,7 @@ const courses = [
     ],
   },
   {
-    id: "4",
+    id: "04",
     category: "Cloud & DevOps",
     badge: "NEW",
     icon: "☁️",
@@ -112,7 +112,7 @@ const courses = [
     ],
   },
   {
-    id: "5",
+    id: "05",
     category: "AI & GenAI",
     badge: "🔥 HOT",
     icon: "🤖",
@@ -137,7 +137,7 @@ const courses = [
     ],
   },
   {
-    id: "6",
+    id: "06",
     category: "Career Skills",
     badge: "CAREER",
     icon: "🎯",
