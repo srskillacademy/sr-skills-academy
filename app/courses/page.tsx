@@ -478,7 +478,7 @@ export default function CoursesPage() {
                 </div>
 
                 <Link
-                  href="/courses/1"
+                  href="/courses/01"
                   className="rounded-xl bg-indigo-600 px-7 py-3.5 text-center font-bold text-white shadow-lg shadow-indigo-200 transition hover:bg-indigo-700"
                 >
                   View Course →
